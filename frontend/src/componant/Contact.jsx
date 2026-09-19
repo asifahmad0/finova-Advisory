@@ -99,7 +99,7 @@ function Contact() {
 
             <div className="mt-9 flex flex-col justify-center gap-4 sm:flex-row">
               <a
-                href="mailto:hello@finova.com"
+                href="mailto:asifahma7761@gmail.com"
                 className="inline-flex items-center justify-center gap-2 rounded-xl bg-cyan-400 px-7 py-4 font-semibold text-slate-950 transition hover:bg-cyan-300"
               >
                 <Mail size={18} />
@@ -107,7 +107,7 @@ function Contact() {
               </a>
 
               <a
-                href="tel:+919999999999"
+                href="tel:+917761917649"
                 className="inline-flex items-center justify-center gap-2 rounded-xl border border-white/10 bg-white/5 px-7 py-4 font-semibold text-white transition hover:bg-white/10"
               >
                 <Phone size={18} />
