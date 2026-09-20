@@ -120,7 +120,7 @@ function Stats() {
       <div className="mx-auto grid max-w-7xl grid-cols-2 divide-x divide-white/10 px-4 py-12 md:grid-cols-4">
         {[
           ["10", "+", "Years Experience"],
-          ["500", "+", "Businesses Served"],
+          ["100", "+", "Businesses Served"],
           ["98", "%", "Client Retention"],
           ["24", "/7", "Expert Support"],
         ].map(([value, suffix, label], index) => (
