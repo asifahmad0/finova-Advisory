@@ -56,24 +56,24 @@ function Footer() {
           <div className="mt-4 space-y-4 text-sm text-slate-500">
             <div className="flex gap-3">
               <Mail size={17} />
-              hello@finova.com
+              asifahma7761@gmail.com
             </div>
 
             <div className="flex gap-3">
               <Phone size={17} />
-              +91 99999 99999
+              +91 7761917649
             </div>
 
             <div className="flex gap-3">
               <MapPin size={17} />
-              New Delhi, India
+              Jharkhand, India
             </div>
           </div>
         </div>
       </div>
 
       <div className="mx-auto mt-10 max-w-7xl border-t border-white/10 pt-7 text-sm text-slate-600">
-        © 2026 Finova Advisory. All rights reserved.
+        © 2026 ASIF AHMAD. All rights reserved.
       </div>
     </footer>
       
